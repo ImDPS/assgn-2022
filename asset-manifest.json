@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/assgn-2022/static/css/main.b0cd01bf.css",
+    "main.js": "/assgn-2022/static/js/main.c4e91d6e.js",
+    "static/js/787.a65a642f.chunk.js": "/assgn-2022/static/js/787.a65a642f.chunk.js",
+    "static/media/anm_logo.png": "/assgn-2022/static/media/anm_logo.6c8357a2ce34e2cb3f5c.png",
+    "index.html": "/assgn-2022/index.html",
+    "main.b0cd01bf.css.map": "/assgn-2022/static/css/main.b0cd01bf.css.map",
+    "main.c4e91d6e.js.map": "/assgn-2022/static/js/main.c4e91d6e.js.map",
+    "787.a65a642f.chunk.js.map": "/assgn-2022/static/js/787.a65a642f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0cd01bf.css",
+    "static/js/main.c4e91d6e.js"
+  ]
+}
